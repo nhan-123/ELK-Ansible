@@ -1,0 +1,6 @@
+# do not include galaxy files
+meta/main.yml
+# no retry files
+*.retry
+# exclude travis ci config files
+.travis.yml
